@@ -1,0 +1,10 @@
+解压exam.rar文件：
+exam-vue 前端项目
+exam-admin 后端项目
+sql/exam.sql  数据库初始化执行文件     mysql数据库 用户root 密码6807234
+分别启动exam-vue和exam-admin项目，按照开发环境手册指示
+
+
+http://82.157.164.123/   建议通过服务器ip地址访问
+
+用户密码默认为123456

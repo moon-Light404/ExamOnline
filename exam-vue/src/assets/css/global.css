@@ -1,0 +1,24 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+p {
+    padding: 0 !important;
+    margin: 0 !important;
+    font-size: 15px;
+}
+
+span {
+    font-weight: 200;
+}
+
+.el-table td, .el-table th.is-leaf {
+    border-bottom: none;
+}
+
+.el-message-box {
+    width: 50% !important;
+}
